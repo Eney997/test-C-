@@ -1,0 +1,6 @@
+C:\Users\ME\Desktop\C#\learnCSHARP\learnCSHARP\bin\Debug\learnCSHARP.exe.config
+C:\Users\ME\Desktop\C#\learnCSHARP\learnCSHARP\bin\Debug\learnCSHARP.exe
+C:\Users\ME\Desktop\C#\learnCSHARP\learnCSHARP\bin\Debug\learnCSHARP.pdb
+C:\Users\ME\Desktop\C#\learnCSHARP\learnCSHARP\obj\Debug\learnCSHARP.csproj.CoreCompileInputs.cache
+C:\Users\ME\Desktop\C#\learnCSHARP\learnCSHARP\obj\Debug\learnCSHARP.exe
+C:\Users\ME\Desktop\C#\learnCSHARP\learnCSHARP\obj\Debug\learnCSHARP.pdb
